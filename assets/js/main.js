@@ -120,7 +120,7 @@ for (let i = 0; i < MaxCircles; i++) {
     randomY,
     randomRadius,
     generarColorAleatorio(),
-    "Tec",
+    i+1,
     generarColorAleatorio(),
     "rgb(0, 0, 0)"
   );
